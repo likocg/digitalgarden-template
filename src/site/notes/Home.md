@@ -13,4 +13,4 @@ Mesmo que esse seja um [[pkm-tft/jardim digital\|jardim digital]] munido de rasc
 
 Se você é entusiasta de ferramentas para pensamentos, todo o universo PKM e se interessa por jardins digitais como eu, [manda um salve](elielguilhen@gmail.com) e bora trocar uma ideia!
 
-Esse jardim digital foi feito com [[pkm-tft/Obsidian\|pkm-tft/Obsidian]], [[webdev/Github\|Github]] e [[webdev/Netlify\|Netlify]] usando o plugin [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden).
+Esse jardim digital foi feito com [[pkm-tft/Obsidian\|Obsidian]] , [[webdev/Github\|Github]] e [[webdev/Netlify\|Netlify]] usando o plugin [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden).
