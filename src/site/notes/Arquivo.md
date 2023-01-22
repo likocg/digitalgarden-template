@@ -4,7 +4,7 @@
 
 
 ## Janeiro
-[[Burnout na era da positividade\|Burnout na era da positividade]]
+[[notas/Burnout na era da positividade\|Burnout na era da positividade]]
 
 ## Agosto
-- Leitura do livro [[O Pacto da Branquitude\|O Pacto da Branquitude]] de [[Cida Bento\|Cida Bento]]
+- Leitura do livro [[livros/O Pacto da Branquitude\|O Pacto da Branquitude]] de [[pessoas/Cida Bento\|Cida Bento]]
