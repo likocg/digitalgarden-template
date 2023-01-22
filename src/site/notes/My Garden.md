@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-garden/","title":"Matagal Dazideia","tags":["gardenEntry"]}
 ---
 
 
-Teste
+# Olá! 👋
 
+Eu sou [Jesus](https://jesus.com.vc), e você veio parar no meu *matagal dazideia*.
 
-Menu:
-[[Página 1\|Página 1]]
-- [[Página 2\|Página 2]]
-- [[Página 3\|Página 3]]
+Se você é entusiasta de ferramentas para pensamentos, todo o universo PKM e se interessa por jardins digitais como eu, [manda um salve](elielguilhen@gmail.com) e bora trocar uma ideia!
 
+[[Arquivo\|Arquivo]]
