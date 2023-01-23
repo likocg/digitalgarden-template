@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdev/github/"}
+{"dg-publish":true,"permalink":"/webdev/github/","tags":["webdev"]}
 ---
 
 
