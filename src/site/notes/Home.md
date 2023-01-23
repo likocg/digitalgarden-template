@@ -11,4 +11,9 @@ Um lugar em que compilo (algumas de) minhas anotações publicamente - pense nel
 
 Se você é entusiasta de [[pkm-tft/Tools for Thoughts (TFT)\|ferramentas para pensamentos]], todo o universo [[pkm-tft/Personal Knowledge Management (PKM)\|PKM]] e se interessa por [[jardim digital \|jardins digitais]] como eu, [manda um salve](elielguilhen@gmail.com) e bora trocar uma ideia!
 
+[[o que estou fazendo agora 1\|Agora]]
+Notas
+Livros
+Índice de palavras-chave
+
 Esse jardim digital foi feito com [[pkm-tft/Obsidian\|Obsidian]], [[webdev/Github\|Github]] e [[webdev/Netlify\|Netlify]] usando o plugin [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden).
