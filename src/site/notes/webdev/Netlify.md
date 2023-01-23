@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdev/netlify/"}
+{"dg-publish":true,"permalink":"/webdev/netlify/","tags":["webdev"]}
 ---
 
 
