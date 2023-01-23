@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdev/gatsby/"}
+{"dg-publish":true,"permalink":"/webdev/gatsby/","tags":["webdev"]}
 ---
 
 
