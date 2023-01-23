@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdev/node-js/"}
+{"dg-publish":true,"permalink":"/webdev/node-js/","tags":["webdev"]}
 ---
 
 
