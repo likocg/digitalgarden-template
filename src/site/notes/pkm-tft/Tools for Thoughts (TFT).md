@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkm-tft/tools-for-thoughts-tft/","tags":["pkm"]}
+{"dg-publish":true,"permalink":"/pkm-tft/tools-for-thoughts-tft/","tags":["pkm","tft"]}
 ---
 
 
