@@ -43,12 +43,13 @@
 
 | Note                                                                                                                          | Last modified               |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[o que estou fazendo agora.md\| / o que estou fazendo agora]]                                                                | 12:10 PM - January 31, 2023 |
-| [[O que eu estava fazendo.md\| / O que eu estava fazendo]]                                                                    | 12:07 PM - January 31, 2023 |
+| [[livros/Livros.md\|livros / Livros]]                                                                                         | 12:21 PM - January 31, 2023 |
+| [[O que eu estava fazendo.md\| / O que eu estava fazendo]]                                                                    | 12:18 PM - January 31, 2023 |
+| [[o que estou fazendo agora.md\| / o que estou fazendo agora]]                                                                | 12:18 PM - January 31, 2023 |
+| [[Índice de palavras-chave.md\| / Índice de palavras-chave]]                                                                  | 12:18 PM - January 31, 2023 |
 | [[Home.md\| / Home]]                                                                                                          | 12:07 PM - January 31, 2023 |
 | [[Bkp-Old/o que estou fazendo agora.md\|Bkp-Old / o que estou fazendo agora]]                                                 | 12:07 PM - January 31, 2023 |
 | [[Bkp-Old/O que eu estava fazendo.md\|Bkp-Old / O que eu estava fazendo]]                                                     | 12:07 PM - January 31, 2023 |
-| [[livros/Livros.md\|livros / Livros]]                                                                                         | 12:00 PM - January 31, 2023 |
 | [[Plugin Dataview exemplos.md\| / Plugin Dataview exemplos]]                                                                  | 12:46 AM - January 24, 2023 |
 | [[notas/Burnout na era da positividade.md\|notas / Burnout na era da positividade]]                                           | 12:15 AM - January 24, 2023 |
 | [[notas/Insights Para Um Open Finance Melhor. Caguei.md\|notas / Insights Para Um Open Finance Melhor. Caguei]]               | 11:47 PM - January 23, 2023 |
@@ -70,7 +71,6 @@
 | [[webdev/Github.md\|webdev / Github]]                                                                                         | 8:22 PM - January 23, 2023  |
 | [[webdev/Gatsby.md\|webdev / Gatsby]]                                                                                         | 8:22 PM - January 23, 2023  |
 | [[Bkp-Old/Home 1.md\|Bkp-Old / Home 1]]                                                                                       | 7:07 PM - January 23, 2023  |
-| [[Índice de palavras-chave.md\| / Índice de palavras-chave]]                                                                  | 1:02 PM - January 22, 2023  |
 | [[Daily/19 de Março, 2022.md\|Daily / 19 de Março, 2022]]                                                                     | 12:57 PM - January 22, 2023 |
 | [[Arquivo.md\| / Arquivo]]                                                                                                    | 12:55 PM - January 22, 2023 |
 | [[livros/O Pacto da Branquitude.md\|livros / O Pacto da Branquitude]]                                                         | 12:13 PM - January 22, 2023 |
