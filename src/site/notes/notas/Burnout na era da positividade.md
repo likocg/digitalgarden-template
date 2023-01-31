@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas/burnout-na-era-da-positividade/"}
+{"dg-publish":true,"permalink":"/notas/burnout-na-era-da-positividade/","tags":["notas"]}
 ---
 
 
