@@ -9,7 +9,7 @@ Eu sou [Jesus](https://jesus.com.vc), e você veio parar no meu *matagal dazidei
 
 Um laboratório de estudos em que compilo algumas anotações publicamente. Se você não entender qualquer frase que esteja por aí, provavelmente é porque não foi escrita pensando em uma audiência.
 
-[[01 Projetos/Matagal Dazideia/o que estou fazendo agora\|Agora]]
+[[01 Projetos/Matagal Dazideia/O que estou fazendo agora\|Agora]]
 [[01 Projetos/Matagal Dazideia/Notas\|Notas]]
 [[01 Projetos/Matagal Dazideia/Livros\|Livros]]
 [[01 Projetos/Matagal Dazideia/Índice de palavras-chave\|Índice]]
@@ -19,6 +19,7 @@ Um laboratório de estudos em que compilo algumas anotações publicamente. Se v
 | Notas | Last modified |
 | ----- | ------------- |
 
+{ .block-language-dataview}
 
 
 ---
