@@ -3,6 +3,15 @@
 ---
 
 
+## Janeiro 2023
+*Update: 31-01-2023*
+
+📌 São Paulo / SP
+
+🙇‍♂️ vadiando, pra não pensar nas tristezas
+
+## Agosto 2022
+
 *Update: 10-08-2022*
 
 📌 Conchas / SP
